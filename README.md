@@ -42,3 +42,10 @@ Ennek az elemnek a közepébe pedig helyezz el egy csillagot és használd ezt a
 - plusz pont, ha sikerül megvalósítani, hogy konténerek között is lehessen átpakolni gyümölcsöket.
 - plusz pont, ha animálod is az egyes eseményeket, fázisokat
 - plusz pont, ha minél előbb kész vagy. :)
+
+## Layout
+
+Valahogy így kellene kinéznie:
+
+![layout](./probafeladat-layout.jpg)
+
