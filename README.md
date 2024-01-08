@@ -4,7 +4,7 @@ Egy gyümölcspakolós minijáték elkészítését kérnénk tőled.
 A feladatot html/js/css, tehát hagyományos frontend technológiákkal kell megvalósítani.
 Bármilyen keretrendszer, task-manager, bundler, stb. használata megengedett, de nem elvárás.
 
-Mellékelt zip fájlban találhatsz képeket, amiket fel kell használnod.
+Az `images` könyvtárban találod a képeket, amiket fel kell használnod.
 
 A feladat végzésénél nem kell törekedni reszponzivitásra, tervezd nyugodtan 1920x1080 (16:9)-es felbontásra, a mellékelt
 assetek is így vannak elkészítve.
